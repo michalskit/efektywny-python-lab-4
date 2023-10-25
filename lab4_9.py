@@ -5,4 +5,5 @@
 # Podpowiedź: join()
 
 def create_sentence(x, k=0):
+    """Łączy słowa (o długości co najmniej k) z listy x w zdanie, nie używa reduce"""
     pass

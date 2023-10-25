@@ -2,4 +2,5 @@
 # z funkcji: reduce, map, filter, lambda
 
 def squares_of_odds(values):
+    """Zwraca sumę kwadratów nieparzystych liczb"""
     pass

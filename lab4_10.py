@@ -4,4 +4,5 @@
 # Każde rozwiązanie powinno być jednolinijkowe.
 
 def primes(N):
+    """Zwraca zbiór liczb pierwszych od 0 do N włącznie"""
     pass

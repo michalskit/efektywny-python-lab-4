@@ -8,4 +8,6 @@
 # ponieważ 1 + 2 + 3 + 4 = 10.
 
 def reverse_nonpalindromes(words):
+    """Zwraca listę odwróconych słów które nie są palindromami.
+    Palindromy zostają pominięte"""
     pass

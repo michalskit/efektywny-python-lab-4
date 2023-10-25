@@ -8,4 +8,5 @@ def all_are_positive(numbers):
 
 
 def all_are_positive_2(numbers):
+    """zwraca czy wszystkie liczby są dodatnie"""
     pass

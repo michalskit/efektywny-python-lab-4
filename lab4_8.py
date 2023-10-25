@@ -5,4 +5,5 @@
 
 
 def product_greater_than(x, k=0):
+    """Zwraca iloczyn liczb w liście x większych od k"""
     pass

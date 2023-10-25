@@ -6,4 +6,5 @@
 
 
 def celsius_to_fahrenheit(x):
+    """Konwertuje liste temperatur w stopniach Celsjusza do skali Fahrenheita"""
     pass
